@@ -1,0 +1,166 @@
+
+
+/* hide old code
+
+
+html {
+  background-color: #ffffff;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+.navbar-brand img {
+  height: 70px;
+}
+
+.main-nav {
+  padding: 0% % 0% 0%;
+}
+
+.navbar-brand {
+  padding: 0% 0% 0% 3%;
+}
+
+main {
+  margin-top: 95px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.hero {
+  background-color: #444444;
+  padding: 5% 0;
+}
+
+.hero-header {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.hero p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+
+a.button-primary {
+  display:inline-block;
+  padding:0.6em 3em 0.5em 3em;
+  border-radius: 25px;
+  margin:0 0.3em 0.3em 0;
+  box-sizing: border-box;
+  text-decoration:none;
+  text-transform:uppercase;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  color: #666666;
+  background-color:#FFFFFF;
+  text-align:center;
+  transition: all 0.15s;
+}
+a.button-primary:hover{
+  color: #FFFFFF;
+  background-color:#8b8b8b;
+}
+a.button-primary:active{
+  background-color:#BBBBBB;
+}
+@media all and (max-width:30em){
+  a.button-primary{
+  display:block;
+  margin:0.4em auto;
+  }
+}
+
+.category {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 3%;
+}
+
+#category-offset {
+  position: relative;
+  top: -80px;
+}
+
+.project-feature {
+  background-color: rgb(175, 175, 175);
+  height: 300px;
+  width: 300px;
+
+}
+
+.project-feature p {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+
+.project-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: center;
+}
+
+.project-card {
+  min-width: 400px;
+  min-height: 400px;
+  background-color: #666666;
+}
+
+.project-card-title {
+}
+
+
+footer {
+  padding: 2% 0% 2% 0%;
+  background-color: black;
+}
+
+footer .left {
+  padding-left: 4%;
+}
+
+
+.logo-footer {
+  height: 70px;
+}
+
+.legal {
+  color: #ffffff;
+  font-size: .7rem;
+}
+
+.social-heading {
+  color: #ffffff;
+}
+
+.social {
+  font-size: 25px;
+  color: #ffffff;
+  padding: 0% 3% 0% 0%;
+
+}
+
+*/
+
